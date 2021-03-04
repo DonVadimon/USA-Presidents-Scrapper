@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    background: rgb(140, 248, 210);
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.square {
+    width: 500px;
+    height: 500px;
+    background:rgb(41, 192, 139);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.square h1 {
+    color: teal;
+    font-size: 300px;
+    font-weight: 300;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
